@@ -1,26 +1,26 @@
-<h1 align="center">Hi visitor, I'm KasRoudra!</h1>
+<h1 align="center">¡Hola, soy Mariela Amanta!</h1>
 <p align="center">
-<a href="https://kasroudra.github.io/" target="_blank">
-   <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
+<a href="https://portafolio-weld-nu.vercel.app/" target="_blank">
+   <img src="https://img.shields.io/badge/-PORTAFOLIO-black?logo=github&style=for-the-badge">
 </a>
 <br>
-<img src="https://gpvc.arturio.dev/KasRoudra">
+<img src="https://gpvc.arturio.dev/MarielaAmanta">
 </p>
-<h3 align="center">Formerly a student but passionate in programming</h3>
-<h2 align="center"><u>Personal Details</u></h2>
+<h3 align="center">Ingeniera de Software apasionada por la creación y la innovación</h3>
+<h2 align="center"><u>Detalles Personales</u></h2>
 <p align="center">
 
- - I'm trying to learn HTML, CSS, JavaScript, PHP, C, Python, Shell, Ruby and Java.
+ - Me especializo en lenguajes como Java, Python, y JavaScript, y tengo experiencia en desarrollo web y móvil.
  
- - My hobby is reading books, listening music, playing games.
+ - Mi interés principal está en la creación de aplicaciones robustas y escalables.
 
- - Sometimes, I write small poems, stories too.
+ - Disfruto aprendiendo sobre nuevas tecnologías y participando en proyectos desafiantes.
 
- - I make ringtones, fake screenshots, memes, meme templates in my leisure time.
+ - Además de la programación, me apasiona la resolución de problemas y el diseño de soluciones eficientes.
  
- - I love to collect apps, games, movies, songs, fonts, iso etc.
+ - Tengo experiencia en el desarrollo de sistemas distribuidos y en la implementación de arquitecturas de microservicios.
 
- - I've some experience in rooting, installing custom rom/OS in android and installing OS in PC.
+ - Mi enfoque incluye el uso de metodologías ágiles para garantizar la entrega de software de alta calidad.
 
 </p>
 
@@ -31,114 +31,49 @@
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </kbd>
   <kbd>
     <kbd>Back-end</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
   </kbd>
   <kbd>
-    <kbd>Library/FrameWorks</kbd>
+    <kbd>Base de Datos</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Frameworks</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   </kbd>
   <br>
   <kbd>
-    <kbd>Apps</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Terminal Scripts</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Tools</kbd>
+    <kbd>Herramientas</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="30px" src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png">
-  </kbd>
-  <kbd>
-    <kbd>OS</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   </kbd>
 </p>
 
 
+### Contáctame:
 
-<h2 align="center"><u>My Best Works</u></h2>
+<a href="https://github.com/Mariela02" target="_blank"><img src="https://img.shields.io/badge/Github-MarielaAmanta-green?style=for-the-badge&logo=github"></a>
 
-| Name                  | Description                                            |
-| ----------------------|------------------------------------------------------- |
-| [Github Stats Card](https://github.com/KasRoudra/github-stats-card)            | Get github stats in image which you can add in your readme(s) |
-| [Repository Readme Generator](https://github.com/KasRoudra/repository-readme-generator)            | Generate a beautiful Readme.md for your repository.             |
-| [MaxPhisher](https://github.com/KasRoudra/MaxPhisher)                          | A python script for login phishing, image phishing and more   |
-| [PyPhisher](https://github.com/KasRoudra/pyphisher)                          | Ultimate phishing tool in python with 77 website templates.     |
-| [VidPhisher](https://github.com/KasRoudra/VidPhisher)                          | Get front camera videos of victim just by opening a link!     |
-| [SupremeFolio](https://github.com/KasRoudra/supremeFolio)                    | A clean, beautiful, responsive and 100% customizable portfolio template.                                                              | 
-| [CamHacker](https://github.com/KasRoudra/CamHacker)                          | Hack anyone's camera with a phishing link.                      |
-| [Github-Stats](https://github.com/KasRoudra/github-stats)                    | Generate a card with yout github statistics                     |
-| [YT-Downloader](https://github.com/KasRoudra/YT-Downloader)                  | Download youtube audio or videos from command line.             |
-| [MusPlayer](https://github.com/KasRoudra/MusPlayer)                          | Play music in termux by mpv.                                    |
-| [Oh-My-Shell](https://github.com/KasRoudra/oh-my-shell)                      | Empower your terminal with the might of fish and omf            |
-| [K-Fuscator](https://github.com/KasRoudra/k-fuscator)                        | Encrypt or decrypt shell script and compile python scripts      |
-| [Local2Internet](https://github.com/KasRoudra/Local2Internet)                | Expose locally hosted website into all over internet.           |
+<a href="https://www.linkedin.com/in/mariela-amanta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-MarielaAmanta-blue?style=for-the-badge&logo=linkedin"></a>
 
-<h4 align="center">All of these are open source!</h4>
-
-<h2 align="center"><u>My Github Stats</u></h2>
-<p align="center">
-<a href="https://github.com/KasRoudra/github-stats-card" alt="github-stats-card"><img src="https://kasroudra-stats-card.onrender.com/user?user=KasRoudra&layout=compact&theme=monokai"/></a>
-<a href="https://github.com/KasRoudra/github-stats-card" alt="github-stats-card"><img src="https://kasroudra-stats-card.onrender.com/lang?user=KasRoudra&layout=compact&type=donut&theme=gruvbox&minimum=0.1"/></a>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KasRoudra&theme=dracula">
-<img src="https://metrics.lecoq.io/KasRoudra?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
-<img src="https://github-profile-trophy.vercel.app/?username=KasRoudra&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
-</p>
-
-### I've little contribution in:
-
-<a href="https://github.com/htr-tech/zphisher">Zphisher  <img src="https://img.shields.io/github/stars/htr-tech/zphisher.svg?style=social&label=Star&maxAge=14400"> </a>
-
-<a href="https://github.com/ashutosh1919/masterPortfolio">masterPortfolio  <img src="https://img.shields.io/github/stars/ashutosh1919/masterPortfolio.svg?style=social&label=Star&maxAge=14400"> </a>
-
-<a href="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates">Awesome Github Profile Readme Templates  <img src="https://img.shields.io/github/stars/durgeshsamariya/awesome-github-profile-readme-templates.svg?style=social&label=Star&maxAge=14400"> </a>
-
-<a href="https://github.com/coderjojo/creative-profile-readme">Creative Profile Readme  <img src="https://img.shields.io/github/stars/coderjojo/creative-profile-readme.svg?style=social&label=Star&maxAge=14400"> </a>
-
-<a href="https://github.com/jaykali/maskphish">MaskPhish  <img src="https://img.shields.io/github/stars/jaykali/maskphish.svg?style=social&label=Star&maxAge=14400"> </a>
-
-
-### Contact me:
-
-<a href="https://github.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github"></a>
-
-<a href="https://facebook.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/FaceBook-KasRoudra-purple?style=for-the-badge&logo=facebook"></a>
-
-<a href="https://twitter.com/Kas_Roudra" target="_blank"><img src="https://img.shields.io/badge/Twitter-KasRoudra-blue?style=for-the-badge&logo=twitter"></a>
-
-<a href="https://m.me/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Messenger-KasRoudra-red?style=for-the-badge&logo=messenger"></a>
-
-<a href="mailto:kasroudrakrd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-kasroudrakrd@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+<a href="mailto:marielaamanta@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-mariela.amanta@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
